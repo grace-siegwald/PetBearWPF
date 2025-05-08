@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetBearWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7274f33bd85f235f0a400ab4e5bc6680b9e7f5f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+275b8b8eda5da2da769e326c17b0b4a545795c82")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetBearWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetBearWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

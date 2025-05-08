@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\patmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\patmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\upgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\upgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\autoupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\autoupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|c:\\users\\kbsie\\documents\\github\\petbearwpf\\petbearwpf\\petbearwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F94CA956-C3E2-46B6-A15A-E704F22621B7}|PetBearWPF\\PetBearWPF.csproj|solutionrelative:petbearwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoUpgrade.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\AutoUpgrade.cs",
+              "RelativeDocumentMoniker": "PetBearWPF\\AutoUpgrade.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\AutoUpgrade.cs",
+              "RelativeToolTip": "PetBearWPF\\AutoUpgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:10:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PetBearWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\MainWindow.xaml",
+              "RelativeToolTip": "PetBearWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T22:59:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\Utility.cs",
+              "RelativeDocumentMoniker": "PetBearWPF\\Utility.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\Utility.cs",
+              "RelativeToolTip": "PetBearWPF\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:00:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upgrade.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\Upgrade.cs",
+              "RelativeDocumentMoniker": "PetBearWPF\\Upgrade.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\Upgrade.cs",
+              "RelativeToolTip": "PetBearWPF\\Upgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:00:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatManager.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\PatManager.cs",
+              "RelativeDocumentMoniker": "PetBearWPF\\PatManager.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\PatManager.cs",
+              "RelativeToolTip": "PetBearWPF\\PatManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:00:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PetBearWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PetBearWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:59:56.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

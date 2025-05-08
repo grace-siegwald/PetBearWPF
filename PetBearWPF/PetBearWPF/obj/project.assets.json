@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF.csproj",
+      "projectUniqueName": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\PetBearWPF.csproj",
       "projectName": "PetBearWPF",
-      "projectPath": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF.csproj",
+      "projectPath": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\PetBearWPF.csproj",
       "packagesPath": "C:\\Users\\kbsie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\obj\\",
+      "outputPath": "C:\\Users\\kbsie\\Documents\\GitHub\\PetBearWPF\\PetBearWPF\\PetBearWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
